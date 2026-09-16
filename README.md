@@ -4,6 +4,16 @@
 
 Este repositório foi criado para guardar <strong>exercícios</strong>, <strong>projetos</strong> e <strong>informações sobre as aulas</strong> do curso de Python do canal <strong>Curso em Vídeo</strong>, ministrado por <strong>Guanabara</strong>.
 
+
+<a href="https://youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6si=CENbLwazi0gjgk_7">
+    Link YouTube
+</a><br><br>
+
+<a href="https://www.cursoemvideo.com/">
+  Link para a Plataforma do curso
+</a><br><br>
+
+
 Aqui será organizado todo o material de estudo para acompanhar o aprendizado de forma prática, clara e estruturada.
 
 <h2>🎯 Objetivo</h2>
@@ -21,24 +31,6 @@ Aqui será organizado todo o material de estudo para acompanhar o aprendizado de
 - <strong>Aulas:</strong> materiais, referências e informações relacionadas às videoaulas;
 - <strong>Resumo e dicas:</strong> conceitos importantes, observações e links úteis;
 - <strong>Histórico de aprendizagem:</strong> evolução do estudo ao longo do curso.
-
-<h2>📁 Estrutura sugerida</h2>
-
-```text
-.
-├── exercicios/
-│   ├── aula_01/
-│   ├── aula_02/
-│   └── ...
-├── projetos/
-│   ├── projeto_01/
-│   └── ...
-├── aulas/
-│   └── anotacoes/
-├── README.md
-├── .gitignore
-└── LICENSE
-```
 
 <h2>🐍 Sobre o curso</h2>
 
@@ -62,10 +54,6 @@ Este espaço tem como objetivo centralizar todo o aprendizado em um único lugar
 - acompanhamento constante do progresso;
 - criação de uma base sólida para estudos futuros.
 
-<h2>📌 Observação</h2>
+<h2> Observação</h2>
 
-O propósito deste repositório é guardar de forma organizada tudo que for aprendido no curso de Python do <strong>Curso em Vídeo</strong>, transformando o estudo em prática e documentação do progresso.
-
----
-
-<p align="center"><em>"Estudar Python com organização, prática e constância faz toda a diferença."</em></p>
+O propósito deste repositório é guardar de forma organizada tudo que for aprendido no curso de Python do <strong>Curso em Vídeo</strong>, transformando o estudo em prática e documentando as aulas e o progresso.
