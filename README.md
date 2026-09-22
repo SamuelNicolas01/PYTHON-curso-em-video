@@ -13,12 +13,12 @@ Este repositório foi criado para guardar <strong>exercícios</strong>, <strong>
   Link para a Plataforma do curso
 </a><br><br>
 
-<h2>PLATAFORMA PESSOAL</h2><br><br>
-<p>Aqui é onde estou guardando os materiais do meu aprendizado</p><br><br>
+<h2>Plataforma Pessoal de Estudos (NOTION)</h2>
+<p>Aqui é onde estou guardando os materiais do meu aprendizado</p>
 
-<a href="<a href="https://app.notion.com/p/Python-Curso-Em-Video-3dd24a3fbc698038a8aef2b005fe611c?source=copy_link">
+<a href="https://app.notion.com/p/Python-Curso-Em-Video-3dd24a3fbc698038a8aef2b005fe611c?source=copy_link">
   Link para a minha plataforma pessoal de anotações!
-</a><br><br>">
+</a><br><br>
   
 
 
