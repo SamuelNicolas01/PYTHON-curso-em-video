@@ -1,8 +1,8 @@
 nome = str(input("Qual seu nome? ")).strip()
 print("como foi escrito : "+nome)
 
-print("nome em maiusculo : " (nome.lower()))
-print("nome em minusculo : " (nome.upper()))
+print("nome em maiusculo : ", (nome.lower()))
+print("nome em minusculo : ",(nome.upper()))
 
 print(f"Seu nome possui {len(nome.replace(' ', ''))} letras")
 
