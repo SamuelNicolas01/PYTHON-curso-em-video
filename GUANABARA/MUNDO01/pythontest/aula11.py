@@ -38,3 +38,4 @@ cores = {
     'pretoebranco': '\033[30;107m'
 }
 print(f"Olá! Muito prazer em te conhecer, {cores['pretoebranco']}{nome}{cores['limpa']}!!!")
+print(cores)
